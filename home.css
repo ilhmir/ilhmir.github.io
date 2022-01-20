@@ -216,4 +216,9 @@ header .intro p{
     .menu-toggle{
         display: flex;
     }
+
+    .intro p{
+        margin-left: 40px;
+        margin-right: 40px;
+    }
 }
